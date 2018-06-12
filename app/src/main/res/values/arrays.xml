@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category">
+        <item>식당</item>
+        <item>숙박</item>
+        <item>오락</item>
+    </string-array>
+    <string-array name="areaname">
+        <item>서울</item>
+        <item>제주</item>
+    </string-array>
+    <string-array name="제주">
+        <item>제주시</item>
+        <item>서귀포시</item>
+    </string-array>
+    <string-array name="서울">
+        <item>종로구</item>
+        <item>중구</item>
+        <item>용산구</item>
+    </string-array>
+    <string-array name="제주시">
+        <item>건입동</item>
+        <item>구좌읍</item>
+        <item>내도동</item>
+        <item>노형동</item>
+        <item>도남동</item>
+        <item>도두이동</item>
+        <item>도두일동</item>
+        <item>도련이동</item>
+        <item>도련일동</item>
+        <item>도평동</item>
+        <item>봉개동</item>
+        <item>삼도이동</item>
+        <item>삼도일동</item>
+        <item>삼양삼동</item>
+        <item>삼양1동</item>
+        <item>삼양2동</item>
+        <item>아라1동</item>
+        <item>아라2동</item>
+        <item>애월읍</item>
+        <item>연동</item>
+        <item>영평동</item>
+        <item>오등동</item>
+        <item>오라1동</item>
+        <item>오라2동</item>
+        <item>오라3동</item>
+        <item>외도1동</item>
+        <item>외도2동</item>
+        <item>용강동</item>
+        <item>용담1동</item>
+        <item>용담2동</item>
+        <item>용담3동</item>
+        <item>우도면</item>
+        <item>월평동</item>
+        <item>이도1동</item>
+        <item>이도2동</item>
+        <item>일도1동</item>
+        <item>일도2동</item>
+        <item>조천읍</item>
+        <item>추자면</item>
+        <item>한경면</item>
+        <item>한림읍</item>
+        <item>해안동</item>
+        <item>화북1동</item>
+        <item>화북2동</item>
+        <item>회천동</item>
+    </string-array>
+    <string-array name="서귀포시">
+        <item>강정동</item>
+        <item>남원읍</item>
+        <item>대정읍</item>
+        <item>대포동</item>
+        <item>도순동</item>
+        <item>동홍동</item>
+        <item>보목동</item>
+        <item>상예동</item>
+        <item>상효동</item>
+        <item>색달동</item>
+        <item>서귀동</item>
+        <item>서호동</item>
+        <item>서홍동</item>
+        <item>성산읍</item>
+        <item>송산동</item>
+        <item>신효동</item>
+        <item>안덕면</item>
+        <item>영남동</item>
+        <item>월평동</item>
+        <item>정방동</item>
+        <item>중문동</item>
+        <item>중앙동</item>
+        <item>천지동</item>
+        <item>토평동</item>
+        <item>표선면</item>
+        <item>하예동</item>
+        <item>하원동</item>
+        <item>하효동</item>
+        <item>호근동</item>
+        <item>회수동</item>
+    </string-array>
+
+</resources>
